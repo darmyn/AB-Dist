@@ -1,1 +1,7 @@
-hi
+Welcome to the application.
+
+I was thinking this would be a good way to display things like user agreement.
+
+Since this is just for a project, I don't have a user agreement, so I just wrote this instead.
+
+Hope you like the project.
